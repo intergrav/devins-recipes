@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Adds various recipes to items and blocks with missing ones, like saddles and chainmail"
+    }
+}
